@@ -1,5 +1,5 @@
 # user-management-system
-User management system help to keeps track of the users details or working clients.
+User management system help to keeps track of the users  or clients details.
 
 #### To Run this Clone it and install modules using
 ```
